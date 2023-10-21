@@ -1,0 +1,29 @@
+**Hello***
+The following web application was developed using NodeJs,MongoDB HTML
+The web application is an answer to both Question 5.1 and 5.2
+
+/*
+Requirements 
+NodeJs V16+
+Internet
+Terminal
+
+*/
+
+****For Question 5.1***
+The page that cannot be accessed without authorization and authentication is the BLOG(Click the blog on the navigation bar)
+To access the blog page you must signup then login.A successfull signup will lead to login page.
+You can also logout once at the blog page and try accessing the success page by using the url string eg {URL_STRING/success} to test the authentication
+The authorization and authentication has been implemeted using JWT.
+To access the page follow the instructions below
+
+***For Question 5.2***
+Inorder to see the home page 
+1.Open the terminal.Ensure you have NodeJS V16 installed
+2.Navigate to this directory 
+3.In the terminal type 'npm install' and press enter
+4.In the terminal type 'node index.js'
+5.Open your browser(Ensure you are connected to the internet)
+6.Type 'localhost:3000'
+7.Enjoy
+
